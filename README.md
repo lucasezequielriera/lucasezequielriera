@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/lucasezequielriera?tab=repositories?label=Follow%20me&logoColor=%21%5BGitHub%20followers%5D%28https%3A%2F%2Fimg.shields.io%2Fgithub%2Ffollowers%2Flucasezequielriera%3Flabel%3DFollow%2520me%26style%3Dsocial%29&style=social)](https://github.com/lucasezequielriera?tab=repositories)
-[![GitHub last commit](https://img.shields.io/github/last-commit/lucasezequielriera/React_CoderHouse?label=Last%20Activity&logo=signal&logoColor=green)](https://github.com/lucasezequielriera?tab=repositories)
+[![GitHub last commit](https://img.shields.io/github/last-commit/lucasezequielriera/escuelas_iade_principal?label=Last%20Activity&logo=signal&logoColor=green)](https://github.com/lucasezequielriera?tab=repositories)
 [![GitHub language count](https://img.shields.io/github/languages/count/lucasezequielriera/escuelasiade_it?color=good&label=Languages&logo=React)](https://github.com/lucasezequielriera)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/lucasezequielriera?color=red&label=Sponsors&logo=w3c)](https://github.com/lucasezequielriera)
 
