@@ -3,20 +3,21 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/lucasezequielriera?color=red&label=Sponsors&logo=w3c)](https://github.com/lucasezequielriera)
 
 ```javascript
-import {coffee, gym, running, music, travel} from './hobbies';
+import { coffee, gym, running, music, travel } from './hobbies';
 
-const developer = {
-  fullName: 'Lucas Riera',
-  age: 25,
+const reactDeveloper = {
+  fullName: 'Lucas Ezequiel Riera',
+  age: 26,
   location: 'Buenos Aires, Argentina',
-  code: ['Javascript'. 'HTML', 'CSS'],
-  tools: ['Bootstrap', 'ReactJS', 'MaterialUI', 'SASS', 'LESS', 'Tailwind'],
-  currentlyLearning: ['AngularJS', 'NodeJS', 'MongoDB', 'MySQL'],
-  learningPlaces: ['UTN', 'CoderHouse', 'Udemy', 'Coursera'],
-  socialNetworks: [{
-    instagram: '/lucasezequielriera',
-    facebook: '/lucasezequielriera',
-    linkedIn: 'in/lucas-riera-049794102/'
-  }]
+  languages: ['Spanish', 'English']
+  principalTools: ['Javascript'. 'HTML', 'CSS', 'ReactJS', 'Firebase'],
+  otherTools: ['Bootstrap', 'Formik', 'MaterialUI', 'SASS', 'LESS', 'Tailwind', 'MySQL, 'NodeJS', 'MongoDB', 'PHP'],
+  currentlyLearning: ['More about ReactJS and become in professional and English'],
+  learningPlaces: ['UTN', 'CoderHouse', 'Udemy', 'Coursera', 'Google Activate'],
+  socialNetworks: [
+  { instagram: '/lucasezequielriera' },
+  { facebook: '/lucasezequielriera' },
+  { linkedIn: '/in/lucasezequielriera' }
+  ]
 };
 ```
