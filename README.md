@@ -17,9 +17,9 @@ const reactDeveloper = [
     currentlyLearning: ['More about NodeJS and become in Full Stack MERN Developer'],
     learningPlaces: ['UTN', 'CoderHouse', 'Udemy', 'Coursera', 'Google Activate'],
     socialNetworks: [
-    { instagram: '/lucasezequielriera' },
-    { facebook: '/lucasezequielriera' },
-    { linkedIn: '/in/lucasezequielriera' }
+      { instagram: '/lucasezequielriera' },
+      { facebook: '/lucasezequielriera' },
+      { linkedIn: '/in/lucasezequielriera' }
     ]
   };
 ]
