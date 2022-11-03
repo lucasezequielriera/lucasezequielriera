@@ -10,7 +10,7 @@ const reactDeveloper = [
     fullName: 'Lucas Ezequiel Riera',
     age: 26,
     location: 'Buenos Aires, Argentina',
-    title: 'Front end Developer & Systems Engineer Student'
+    title: 'Front end Developer & Systems Engineer Student',
     languages: ['Spanish', 'English'],
     principalTools: ['HTML5', 'CSS3', 'Javascript', 'Typescript', 'ReactJS', 'AntDesign', 'Firebase', 'NodeJS', 'MongoDB', 'Express'],
     otherTools: ['Bootstrap', 'Formik', 'MaterialUI', 'SASS', 'LESS', 'Tailwind', 'MySQL', 'PHP', 'NextJS'],
