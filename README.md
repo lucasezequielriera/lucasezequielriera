@@ -21,6 +21,6 @@ const reactDeveloper = [
       { facebook: '/lucasezequielriera' },
       { linkedIn: '/in/lucasezequielriera' }
     ]
-  };
-]
+  }
+];
 ```
