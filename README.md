@@ -5,19 +5,22 @@
 ```javascript
 import { coffee, gym, running, music, travel } from './hobbies';
 
-const reactDeveloper = {
-  fullName: 'Lucas Ezequiel Riera',
-  age: 26,
-  location: 'Buenos Aires, Argentina',
-  languages: ['Spanish', 'English'],
-  principalTools: ['Javascript'. 'HTML', 'CSS', 'ReactJS', 'Firebase'],
-  otherTools: ['Bootstrap', 'Formik', 'MaterialUI', 'SASS', 'LESS', 'Tailwind', 'MySQL', 'NodeJS', 'MongoDB', 'PHP'],
-  currentlyLearning: ['More about ReactJS and become in professional and English'],
-  learningPlaces: ['UTN', 'CoderHouse', 'Udemy', 'Coursera', 'Google Activate'],
-  socialNetworks: [
-  { instagram: '/lucasezequielriera' },
-  { facebook: '/lucasezequielriera' },
-  { linkedIn: '/in/lucasezequielriera' }
-  ]
-};
+const reactDeveloper = [
+  {
+    fullName: 'Lucas Ezequiel Riera',
+    age: 26,
+    location: 'Buenos Aires, Argentina',
+    title: 'Front end Developer & Systems Engineer Student'
+    languages: ['Spanish', 'English'],
+    principalTools: ['HTML5', 'CSS3', 'Javascript', 'Typescript', 'ReactJS', 'AntDesign', 'Firebase', 'NodeJS', 'MongoDB', 'Express'],
+    otherTools: ['Bootstrap', 'Formik', 'MaterialUI', 'SASS', 'LESS', 'Tailwind', 'MySQL', 'PHP', 'NextJS'],
+    currentlyLearning: ['More about NodeJS and become in Full Stack MERN Developer'],
+    learningPlaces: ['UTN', 'CoderHouse', 'Udemy', 'Coursera', 'Google Activate'],
+    socialNetworks: [
+    { instagram: '/lucasezequielriera' },
+    { facebook: '/lucasezequielriera' },
+    { linkedIn: '/in/lucasezequielriera' }
+    ]
+  };
+]
 ```
