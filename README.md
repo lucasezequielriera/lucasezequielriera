@@ -25,8 +25,8 @@ I build scalable, high-performance web applications for enterprise teams and dig
 |---------|------|--------|
 | United Airlines | Senior Frontend Developer | 2022 – 2025 |
 | YPF | Senior Frontend Developer | 2023 – 2024 |
-| Terrand | Senior React Developer | 2021 – 2023 |
-| ITAcademy | Full Stack Developer | 2019 – 2021 (~3 years) |
+| Terrand | React Developer | 2021 – 2023 |
+| ITAcademy | Full Stack Developer | 2019 – 2021 |
 
 ### Education
 
