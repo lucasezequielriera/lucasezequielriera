@@ -53,11 +53,11 @@ Figma · Zeplin · Jira · Cursor · AI
 
 ### Links
 
-- 🌐 **[lucasriera.com](https://lucasriera.com)**
-- 💼 **[LinkedIn](https://linkedin.com/in/lucasezequielriera)**
+- 🌐 **[lucasriera.com](https://www.lucasriera.com)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/lucasezequielriera)**
 - 📩 **lucasezequielriera@gmail.com**
 
 ---
 
-*Currently available for projects and collaborations — [let's talk](https://lucasriera.com/#contacto).*
+*Currently available for projects and collaborations — [let's talk](https://www.lucasriera.com/#contacto).*
 
